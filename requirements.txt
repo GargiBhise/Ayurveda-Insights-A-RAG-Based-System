@@ -1,0 +1,9 @@
+PyMuPDF
+tqdm
+pandas
+spacy
+sentence_transformers
+torch
+numpy
+textwrap3
+matplotlib
